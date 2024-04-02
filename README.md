@@ -1,16 +1,20 @@
-### Hi there 👋
+## Bem-vindo(a) ao perfil do joao-oswLdin
 
-<!--
-**joao-oswLdin/joao-oswLdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+   <a href="https://github.com/joao-oswLdin">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-oswLdin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-oswLdin&layout=compact&langs_count=6&theme=midnight-purple"/>
+</div>
+    
+<div style="display: inline_block"><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+ 
+<br>
+ 
+### Outras Redes 
+ 
+<div> 
+  <a href="https://www.youtube.com/@oswLdin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_oswldin_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaomarkos112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
